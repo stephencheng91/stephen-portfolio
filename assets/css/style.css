@@ -1,0 +1,96 @@
+
+body{
+    background-color:#DCC7AA;
+}
+
+.intro{
+    background-color:#4f5f76;
+}
+
+#profileSection{
+    padding: 30px;
+}
+
+.card{
+    background-color:#4f5f76;
+
+}
+
+.card-title{
+    padding-left: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 540;
+}
+
+.card-body{
+    padding-top: 0px;
+}
+
+.card-text{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 540;
+}
+
+
+.nav{
+    color: antiquewhite
+}
+
+.personalInfo{
+    background-color:  #091f36;
+    padding: 30px 2% 50px 2%;
+    margin-bottom: 30px;
+}
+
+#infoTitle{
+    color: white;
+    margin-bottom: 10px;
+}
+
+#linkBtn{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10%;
+}
+
+.btn, .btn-secondary{
+    color: white;
+    width: 150px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#skillSet{
+    margin-left: 25px;
+    color: whitesmoke;
+}
+
+.list-group{
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20px;
+}
+
+.list-group-item{
+    margin-bottom: 20px;
+}
+
+.subTitle{
+    margin-left: 20%;
+    margin-bottom: 20px;
+}
+
+.mechanical{
+    margin-left: 10%;
+    margin-right: 30%;
+}
+
+
+
+
+
